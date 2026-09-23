@@ -69,7 +69,7 @@ The dashboard provides analysis of:
 
 📷 Dashboard Preview
 
-The hospital dashboard screenshot will be added here.
+![Hospital Dashboard](Dashboard.png)
 
 📁 Project File
 
